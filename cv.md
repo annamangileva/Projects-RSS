@@ -1,7 +1,5 @@
 # [rsschool резюме](https://annamangileva.github.io/rsschool-cv/cv)
----
 ## Anna Mangileva
----
 ### Contacts
 ---
 - **Location:** Bonn, Germany
